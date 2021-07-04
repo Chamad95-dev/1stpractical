@@ -1,0 +1,128 @@
+body{
+	margin:0;
+	padding:0;
+	background-color:#000000;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+#section-one{
+	background-color:#8B0000;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:20px;
+}
+
+#para-about{
+	color:white;
+	font-weight:bold;
+}
+#section-two{
+	background-color:#2976b6;
+	padding-top:10px;
+	padding-bottom:40px;
+	padding-left:20px;
+	margin-top:-2.2%;
+}
+
+footer{
+	background-color:#000000;
+	color:white;
+	padding-left:20px;
+	padding-right:10px;
+	margin-top:-2.2%;
+	margin-bottom:-10px;
+	
+}
+
+h3{
+	color:white;
+	text-decoration:underline;
+	font-style:italic;
+	line-height: 0;
+	
+}
+
+#work{
+	line-height: 2.5;
+}
+
+.first-nav{
+	background-color: #dd2a1d;
+	text-decoration:none;
+	display:flex;
+	flex-direction:row;
+}
+
+
+
+.first-nav li, a:link, a:visited{
+	text-decoration:none;
+	display:flex;
+	flex-direction:row;
+	color:white;
+	font-weight:100;
+	float:left;
+	padding:0px 15px 0px 0px;
+	
+}
+
+.first-nav ul{
+	list-style-type:none;
+}
+
+.second-nav{
+	display:flex;
+	justify-content:space-evenly;
+}
+
+#link-fb{
+	color:darkblue;
+	font-weight:bold;
+	font-size:20px;
+}
+
+#link-tweet{
+	color:rgb(214, 28, 28);
+	font-weight:bold;
+	font-size:20px;
+}
+
+#link-linkedin{
+	color:rgb(49, 18, 228);
+	font-weight:bold;
+	font-size:20px;
+}
+
+#link-github{
+	color:pink;
+	font-weight:bold;
+	font-size:20px;
+}
+
+#link-mail{
+	color:darkorange;
+	font-weight:bold;
+	font-size:20px;
+}
+
+#link-call{
+	color:lime;
+	font-weight:bold;
+	font-size:20px;
+}
+
+ol{
+	margin-left:-25px;
+}
+
+#footer-one{
+	text-align:right;
+}
+
+#footer-two{
+	margin-top: 12;
+}
+
+#footer-three{
+	text-align:right;
+}
